@@ -1,5 +1,4 @@
 # Luis Quintanilla's GitHub Page
 
-This is my GitHub Page
-
-Adding something else
+[Content](http://google.com)
+[Content](./getting-started.md)
